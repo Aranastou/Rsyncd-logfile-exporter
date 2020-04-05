@@ -1,0 +1,142 @@
+2020/02/14 08:59:49 [12090] connect from localhost (::1)
+2020/02/14 08:59:49 [12090] module-list request from localhost (::1)
+2020/02/14 08:59:55 [12032] rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(644) [Receiver=3.1.3]
+2020/02/14 09:00:38 [12102] rsyncd version 3.1.3 starting, listening on port 8737
+2020/02/14 09:00:47 [12128] connect from localhost (::1)
+2020/02/14 09:00:47 [12128] rsync on exercise/ from localhost (::1)
+2020/02/14 09:00:47 [12128] building file list
+2020/02/14 09:00:47 [12128] sent 35774 bytes  received 51 bytes  total size 35642
+2020/02/14 09:29:46 [12367] rsyncd version 3.1.3 starting, listening on port 8737
+2020/02/14 09:29:46 [12367] bind() failed: Address already in use (address-family 2)
+2020/02/14 09:29:46 [12367] bind() failed: Address already in use (address-family 10)
+2020/02/14 09:29:46 [12367] unable to bind any inbound sockets on port 8737
+2020/02/14 09:29:46 [12367] rsync error: error in socket IO (code 10) at socket.c(555) [Receiver=3.1.3]
+2020/02/14 09:30:23 [12408] connect from localhost (::1)
+2020/02/14 09:30:23 [12408] rsync on exercise/ from localhost (::1)
+2020/02/14 09:30:23 [12408] building file list
+2020/02/14 09:30:23 [12408] sent 197 bytes  received 51 bytes  total size 35678
+2020/02/14 09:30:30 [12443] connect from localhost (::1)
+2020/02/14 09:30:30 [12443] rsync on exercise/ from localhost (::1)
+2020/02/14 09:30:30 [12443] building file list
+2020/02/14 09:30:30 [12443] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 09:30:41 [12451] connect from localhost (::1)
+2020/02/14 09:30:41 [12451] rsync on exercise/ from localhost (::1)
+2020/02/14 09:30:41 [12451] building file list
+2020/02/14 09:30:41 [12451] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 09:32:14 [12499] connect from localhost (127.0.0.1)
+2020/02/14 10:47:10 [13968] connect from localhost (::1)
+2020/02/14 10:47:10 [13968] rsync on exercise/ from localhost (::1)
+2020/02/14 10:47:10 [13968] building file list
+2020/02/14 10:47:10 [13968] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 10:48:24 [14008] connect from localhost (127.0.0.1)
+2020/02/14 10:56:44 [14121] connect from localhost (127.0.0.1)
+2020/02/14 10:58:41 [14156] connect from localhost (::1)
+2020/02/14 10:58:41 [14156] rsync on exercise/ from localhost (::1)
+2020/02/14 10:58:41 [14156] building file list
+2020/02/14 10:58:41 [14156] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 11:59:02 [14869] connect from localhost (::1)
+2020/02/14 11:59:02 [14869] rsync on exercise/ from localhost (::1)
+2020/02/14 11:59:02 [14869] building file list
+2020/02/14 11:59:02 [14869] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:03:24 [14985] connect from localhost (127.0.0.1)
+2020/02/14 12:03:31 [15011] connect from localhost (::1)
+2020/02/14 12:03:31 [15011] rsync on exercise/ from localhost (::1)
+2020/02/14 12:03:31 [15011] building file list
+2020/02/14 12:03:31 [15011] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:07:20 [15126] connect from localhost (::1)
+2020/02/14 12:07:20 [15126] rsync on exercise/ from localhost (::1)
+2020/02/14 12:07:20 [15126] building file list
+2020/02/14 12:07:20 [15126] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:11:44 [15207] connect from localhost (::1)
+2020/02/14 12:11:44 [15207] rsync on exercise/ from localhost (::1)
+2020/02/14 12:11:44 [15207] building file list
+2020/02/14 12:11:44 [15207] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:12:33 [15269] connect from localhost (::1)
+2020/02/14 12:12:33 [15269] rsync on exercise/ from localhost (::1)
+2020/02/14 12:12:33 [15269] building file list
+2020/02/14 12:12:33 [15269] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:14:21 [15332] connect from localhost (::1)
+2020/02/14 12:14:21 [15332] rsync on exercise/ from localhost (::1)
+2020/02/14 12:14:21 [15332] building file list
+2020/02/14 12:14:21 [15332] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:15:40 [15399] connect from localhost (::1)
+2020/02/14 12:15:40 [15399] rsync on exercise/ from localhost (::1)
+2020/02/14 12:15:40 [15399] building file list
+2020/02/14 12:15:41 [15399] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:17:12 [15476] connect from localhost (::1)
+2020/02/14 12:17:12 [15476] rsync on exercise/ from localhost (::1)
+2020/02/14 12:17:12 [15476] building file list
+2020/02/14 12:17:12 [15476] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:17:55 [15533] connect from localhost (::1)
+2020/02/14 12:17:55 [15533] rsync on exercise/ from localhost (::1)
+2020/02/14 12:17:55 [15533] building file list
+2020/02/14 12:17:55 [15533] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:19:01 [15589] connect from localhost (::1)
+2020/02/14 12:19:01 [15589] rsync on exercise/ from localhost (::1)
+2020/02/14 12:19:01 [15589] building file list
+2020/02/14 12:19:01 [15589] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:20:50 [15680] connect from localhost (::1)
+2020/02/14 12:20:50 [15680] rsync on exercise/ from localhost (::1)
+2020/02/14 12:20:50 [15680] building file list
+2020/02/14 12:20:50 [15680] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:21:07 [15712] connect from localhost (::1)
+2020/02/14 12:21:07 [15712] rsync on exercise/ from localhost (::1)
+2020/02/14 12:21:07 [15712] building file list
+2020/02/14 12:21:07 [15712] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:22:22 [15800] connect from localhost (::1)
+2020/02/14 12:22:22 [15800] rsync on exercise/ from localhost (::1)
+2020/02/14 12:22:23 [15800] building file list
+2020/02/14 12:22:23 [15800] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:23:43 [15835] connect from localhost (::1)
+2020/02/14 12:23:43 [15835] rsync on exercise/ from localhost (::1)
+2020/02/14 12:23:43 [15835] building file list
+2020/02/14 12:23:43 [15835] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:24:39 [15898] connect from localhost (::1)
+2020/02/14 12:24:39 [15898] rsync on exercise/ from localhost (::1)
+2020/02/14 12:24:39 [15898] building file list
+2020/02/14 12:24:39 [15898] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:25:31 [15963] connect from localhost (::1)
+2020/02/14 12:25:31 [15963] rsync on exercise/ from localhost (::1)
+2020/02/14 12:25:31 [15963] building file list
+2020/02/14 12:25:31 [15963] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:26:09 [16023] connect from localhost (::1)
+2020/02/14 12:26:09 [16023] rsync on exercise/ from localhost (::1)
+2020/02/14 12:26:09 [16023] building file list
+2020/02/14 12:26:09 [16023] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:29:46 [16116] connect from localhost (::1)
+2020/02/14 12:29:46 [16116] rsync on exercise/ from localhost (::1)
+2020/02/14 12:29:46 [16116] building file list
+2020/02/14 12:29:46 [16116] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:32:27 [16211] connect from localhost (::1)
+2020/02/14 12:32:27 [16211] rsync on exercise/ from localhost (::1)
+2020/02/14 12:32:27 [16211] building file list
+2020/02/14 12:32:27 [16211] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:32:43 [16238] connect from localhost (::1)
+2020/02/14 12:32:43 [16238] rsync on exercise/ from localhost (::1)
+2020/02/14 12:32:43 [16238] building file list
+2020/02/14 12:32:43 [16238] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:56:03 [16532] connect from localhost (::1)
+2020/02/14 12:56:03 [16532] rsync on exercise/ from localhost (::1)
+2020/02/14 12:56:03 [16532] building file list
+2020/02/14 12:56:03 [16532] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 12:56:31 [16561] connect from localhost (::1)
+2020/02/14 12:56:32 [16586] connect from localhost (::1)
+2020/02/14 12:56:34 [16590] connect from localhost (::1)
+2020/02/14 16:35:51 [20230] connect from localhost (127.0.0.1)
+2020/02/14 16:36:12 [20257] connect from localhost (::1)
+2020/02/14 16:36:12 [20257] rsync on exercise/ from localhost (::1)
+2020/02/14 16:36:12 [20257] building file list
+2020/02/14 16:36:12 [20257] sent 111 bytes  received 25 bytes  total size 35678
+2020/02/14 17:11:00 [20860] connect from localhost (::1)
+2020/02/14 17:11:03 [20885] connect from localhost (::1)
+2020/02/14 17:11:29 [20895] connect from localhost (127.0.0.1)
+2020/02/14 17:11:32 [20920] connect from localhost (127.0.0.1)
+2020/02/14 17:11:36 [20924] connect from localhost (127.0.0.1)
+2020/02/14 17:11:37 [20927] connect from localhost (127.0.0.1)
+2020/02/14 17:12:54 [12102] rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(644) [Receiver=3.1.3]
+2020/04/05 21:29:06 [12807] rsyncd version 3.1.3 starting, listening on port 8737
+2020/04/05 21:29:11 [12807] rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(644) [Receiver=3.1.3]
+2020/04/05 21:30:56 [12843] rsyncd version 3.1.3 starting, listening on port 8737
+2020/04/05 21:31:29 [12906] connect from localhost (127.0.0.1)
+2020/04/05 21:31:35 [12906] rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(644) [Receiver=3.1.3]
+2020/04/05 21:31:35 [12843] rsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at rsync.c(644) [Receiver=3.1.3]
