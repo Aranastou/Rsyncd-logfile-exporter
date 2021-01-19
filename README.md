@@ -1,4 +1,5 @@
 # Rsyncd logfile exporter
+The purpose of this program is to read and tail an rsyncd log file and export various statistics about the work rsyncd is doing in a way that can be scraped by Prometheus.
 
 ## Overview
 
